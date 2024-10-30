@@ -1,0 +1,27 @@
+/* #heading{
+color:rgb(10, 10, 158);
+background-color: aqua;
+}
+body{
+    background-color: rgb(188, 255, 233);
+}
+.para{
+    color: rgb(188, 4, 4);
+}
+.newclass{
+    background-color: rgb(226, 244, 33);
+}
+div{
+    background-color: rgb(32, 232, 232);
+    height: 100px;
+    width:100px;
+    margin-top: 20px;
+    color:brown
+    text-align:center;
+    border: 2px solid black;
+} */
+
+ .light{
+    background-color: white;
+    color:black;
+ }
